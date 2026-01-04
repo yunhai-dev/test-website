@@ -1,0 +1,18 @@
+# humanstxt.org - YUNHAI
+# The humans behind this site
+
+/* TEAM */
+Editor: Editorial Team
+Location: Global
+
+/* SITE */
+Site: YUNHAI
+URL: https://yunhai-dev.github.io/test-website
+Description: this is yunhai
+Standards: HTML5, CSS3, Responsive Design
+Software: GraphSiteAI (AI-powered content generation)
+Language: en
+
+/* THANKS */
+Built with GraphSiteAI - AI-CMS Agent
+https://github.com/graphsiteai

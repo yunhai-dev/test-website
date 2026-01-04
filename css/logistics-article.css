@@ -1,0 +1,219 @@
+/* Specialized Global Logistics Article Styles */
+.logistics-story-layout {
+    display: grid;
+    grid-template-columns: 2.3fr 1fr;
+    gap: 70px;
+    padding: 50px 0 120px;
+}
+
+.nav-pathway {
+    font-size: 11px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    margin-bottom: 35px;
+    color: var(--cr-slate);
+}
+
+.nav-pathway a {
+    color: var(--cr-gold);
+}
+
+.entry-heading {
+    margin-bottom: 45px;
+}
+
+.entry-topic {
+    background-color: var(--cr-gold);
+    color: var(--cr-navy);
+    display: inline-block;
+    padding: 3px 10px;
+    font-size: 11px;
+    font-weight: 700;
+    text-transform: uppercase;
+    margin-bottom: 15px;
+}
+
+.entry-main-title {
+    font-family: var(--font-heading);
+    font-size: 44px;
+    line-height: 1.15;
+    color: var(--cr-navy);
+    margin-bottom: 25px;
+}
+
+.entry-metadata {
+    font-size: 14px;
+    color: var(--cr-slate);
+    border-bottom: 1px solid var(--cr-border);
+    padding-bottom: 20px;
+}
+
+.author-ref {
+    font-weight: 600;
+    color: var(--cr-text);
+}
+
+.entry-media-box {
+    margin: 50px 0;
+}
+
+.entry-media-box img {
+    width: 100%;
+    filter: brightness(95%);
+}
+
+.media-caption {
+    font-size: 13px;
+    color: #666;
+    margin-top: 15px;
+    border-left: 2px solid var(--cr-gold);
+    padding-left: 10px;
+}
+
+.entry-body-text {
+    font-size: 18px;
+    line-height: 1.85;
+    color: var(--cr-text);
+}
+
+.text-intro {
+    font-size: 21px;
+    font-weight: 300;
+    margin-bottom: 35px;
+    color: var(--cr-slate);
+}
+
+.entry-body-text h2 {
+    font-family: var(--font-heading);
+    font-size: 30px;
+    margin: 50px 0 20px;
+    color: var(--cr-navy);
+}
+
+.industrial-quote {
+    background-color: var(--cr-navy);
+    color: #fff;
+    padding: 40px;
+    margin: 50px 0;
+    font-family: var(--font-heading);
+    font-size: 26px;
+    font-style: italic;
+    line-height: 1.4;
+    position: relative;
+}
+
+.industrial-quote::after {
+    content: '';
+    position: absolute;
+    left: 0;
+    top: 0;
+    height: 100%;
+    width: 6px;
+    background-color: var(--cr-gold);
+}
+
+.logistics-faq-hub {
+    margin-top: 70px;
+    padding: 50px;
+    background-color: var(--cr-gray-light);
+    border-top: 3px solid var(--cr-navy);
+}
+
+.faq-hub-title {
+    font-family: var(--font-heading);
+    font-size: 24px;
+    margin-bottom: 35px;
+    text-transform: uppercase;
+}
+
+.faq-node {
+    margin-bottom: 30px;
+}
+
+.faq-q {
+    font-weight: 700;
+    font-size: 17px;
+    margin-bottom: 8px;
+    color: var(--cr-navy);
+}
+
+.faq-a {
+    font-size: 16px;
+    color: var(--cr-slate);
+}
+
+.contributor-profile {
+    margin-top: 80px;
+    display: flex;
+    gap: 30px;
+    align-items: flex-start;
+    padding: 40px;
+    border: 1px solid var(--cr-border);
+}
+
+.profile-initials {
+    width: 70px;
+    height: 70px;
+    background-color: var(--cr-gold);
+    color: var(--cr-navy);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: 700;
+    font-size: 20px;
+    flex-shrink: 0;
+}
+
+.profile-info h5 {
+    font-size: 18px;
+    margin-bottom: 8px;
+}
+
+.story-sidebar .sidebar-widget {
+    margin-bottom: 60px;
+}
+
+.widget-label {
+    font-family: var(--font-heading);
+    font-size: 20px;
+    margin-bottom: 25px;
+    border-bottom: 3px solid var(--cr-navy);
+    padding-bottom: 8px;
+}
+
+.intel-links {
+    list-style: none;
+}
+
+.intel-links li {
+    margin-bottom: 18px;
+    font-size: 15px;
+    font-weight: 600;
+}
+
+.advisory-ad {
+    padding: 30px;
+    background-color: var(--cr-navy);
+    color: white;
+}
+
+.advisory-ad h5 {
+    color: var(--cr-gold);
+    font-size: 18px;
+    margin-bottom: 15px;
+}
+
+.advisory-btn {
+    display: inline-block;
+    margin-top: 20px;
+    color: var(--cr-gold);
+    font-weight: 700;
+    text-transform: uppercase;
+    font-size: 12px;
+}
+
+@media (max-width: 768px) {
+    .logistics-story-layout { grid-template-columns: 1fr; }
+    .entry-main-title { font-size: 32px; }
+    .industrial-quote { padding: 30px; font-size: 22px; }
+}

@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+  <title>YUNHAI | this is yunhai</title>
+  <link>https://yunhai-dev.github.io/test-website</link>
+  <description>this is yunhai</description>
+  <language>en</language>
+  <lastBuildDate>Mon, 05 Jan 2026 03:39:31 GMT</lastBuildDate>
+  <atom:link href="https://yunhai-dev.github.io/test-website/feed.xml" rel="self" type="application/rss+xml" />
+  
+  
+  <item>
+    <title>The Blood Moon Phenomenon: A Celestial Event That Bridges Science, Culture, and Travel</title>
+    <link>https://yunhai-dev.github.io/test-website/strategic-insights/blood-moon-phenomenon-explained.html</link>
+    <guid isPermaLink="true">https://yunhai-dev.github.io/test-website/strategic-insights/blood-moon-phenomenon-explained.html</guid>
+    <pubDate>Mon, 05 Jan 2026 03:39:31 GMT</pubDate>
+    <description>Explore the science of the blood moon, from atmospheric refraction to its role in global mythology. This article also delves into the unique experience of witnessing this celestial event from unexpected locations like Bengbu, offering a fresh perspective on astronomy and travel.</description>
+    <dc:creator>James Sterling</dc:creator>
+    <category>Strategic Insights</category>
+  </item>
+  <item>
+    <title>The Art of the Unplanned Journey: Finding Yourself Through Solo Travel</title>
+    <link>https://yunhai-dev.github.io/test-website/corporate/unplanned-journey-solo-travel.html</link>
+    <guid isPermaLink="true">https://yunhai-dev.github.io/test-website/corporate/unplanned-journey-solo-travel.html</guid>
+    <pubDate>Mon, 05 Jan 2026 03:37:57 GMT</pubDate>
+    <description>An in-depth exploration of the philosophy and practice of unplanned solo travel. Learn how wandering without an itinerary fosters self-discovery, resilience, and genuine connection with the world.</description>
+    <dc:creator>Sarah Jenkins</dc:creator>
+    <category>Corporate</category>
+  </item>
+  <item>
+    <title>Agentic AI: The Evolution from Conversational Assistant to Autonomous Digital Partner</title>
+    <link>https://yunhai-dev.github.io/test-website/digital-commerce/agentic-ai-evolution-autonomous-partner.html</link>
+    <guid isPermaLink="true">https://yunhai-dev.github.io/test-website/digital-commerce/agentic-ai-evolution-autonomous-partner.html</guid>
+    <pubDate>Mon, 05 Jan 2026 03:37:10 GMT</pubDate>
+    <description>An in-depth analysis of Agentic AI, exploring its architectural components, real-world applications, and the challenges of moving from chatbots to autonomous digital partners that can execute complex tasks.</description>
+    <dc:creator>Julian Fang</dc:creator>
+    <category>Digital Commerce</category>
+  </item>
+  <item>
+    <title>YUN Share: The Ultimate Guide to Frictionless Static Web Hosting for Developers</title>
+    <link>https://yunhai-dev.github.io/test-website/retail-analysis/ultimate-guide-static-web-hosting.html</link>
+    <guid isPermaLink="true">https://yunhai-dev.github.io/test-website/retail-analysis/ultimate-guide-static-web-hosting.html</guid>
+    <pubDate>Mon, 05 Jan 2026 03:33:28 GMT</pubDate>
+    <description>A comprehensive guide to YUN Share, a lightweight static web hosting tool that allows developers to deploy websites via a simple ZIP upload and email verification. Learn the workflow, requirements, and use cases for frictionless project sharing.</description>
+    <dc:creator>David Vance</dc:creator>
+    <category>Retail Analysis</category>
+  </item>
+  <item>
+    <title>The Eternal Echo: How Modern China is Keeping Ancient Poetry and Dreams Alive</title>
+    <link>https://yunhai-dev.github.io/test-website/retail-analysis/modern-china-ancient-poetry.html</link>
+    <guid isPermaLink="true">https://yunhai-dev.github.io/test-website/retail-analysis/modern-china-ancient-poetry.html</guid>
+    <pubDate>Mon, 05 Jan 2026 03:32:28 GMT</pubDate>
+    <description>Explore how modern China is reviving its ancient cultural heritage through futuristic architecture, the explosion of Guofeng music, and a renewed passion for classical poetry, blending tradition with contemporary life.</description>
+    <dc:creator>David Vance</dc:creator>
+    <category>Retail Analysis</category>
+  </item>
+  <item>
+    <title>Mastering Cloud File Uploads: A Deep Dive into OSS Direct Upload Architecture</title>
+    <link>https://yunhai-dev.github.io/test-website/retail-analysis/oss-direct-upload-architecture.html</link>
+    <guid isPermaLink="true">https://yunhai-dev.github.io/test-website/retail-analysis/oss-direct-upload-architecture.html</guid>
+    <pubDate>Mon, 05 Jan 2026 03:31:04 GMT</pubDate>
+    <description>Explore the evolution of file upload architectures, from traditional server-relay methods to modern, high-performance direct-to-cloud uploads using Object Storage Service (OSS). This deep dive covers the technical implementation, cost benefits, and strategic advantages of using pre-signed URLs...</description>
+    <dc:creator>David Vance</dc:creator>
+    <category>Retail Analysis</category>
+  </item>
+  <item>
+    <title>JuiceFS: A Deep Dive into the High-Performance Distributed File System</title>
+    <link>https://yunhai-dev.github.io/test-website/retail-analysis/juicefs-distributed-file-system.html</link>
+    <guid isPermaLink="true">https://yunhai-dev.github.io/test-website/retail-analysis/juicefs-distributed-file-system.html</guid>
+    <pubDate>Mon, 05 Jan 2026 03:30:07 GMT</pubDate>
+    <description>Explore JuiceFS, the open-source distributed file system that combines the scalability of object storage with the performance of a local file system. Learn about its architecture, POSIX compatibility, and use cases in AI and Big Data.</description>
+    <dc:creator>David Vance</dc:creator>
+    <category>Retail Analysis</category>
+  </item>
+  <item>
+    <title>LangGraph Explained: The Framework for Building Stateful AI Agent Workflows</title>
+    <link>https://yunhai-dev.github.io/test-website/retail-analysis/langgraph-stateful-ai-agents.html</link>
+    <guid isPermaLink="true">https://yunhai-dev.github.io/test-website/retail-analysis/langgraph-stateful-ai-agents.html</guid>
+    <pubDate>Mon, 05 Jan 2026 03:28:39 GMT</pubDate>
+    <description>Explore LangGraph, the stateful framework for building dynamic AI agent workflows. This guide covers its core architecture, including nodes, edges, and state management, and provides practical examples for creating persistent, multi-step AI systems.</description>
+    <dc:creator>David Vance</dc:creator>
+    <category>Retail Analysis</category>
+  </item>
+  <item>
+    <title>The Luminous Enigma: Unraveling the Science and Symbolism of a Blood Moon</title>
+    <link>https://yunhai-dev.github.io/test-website/retail-analysis/blood-moon-science-symbolism.html</link>
+    <guid isPermaLink="true">https://yunhai-dev.github.io/test-website/retail-analysis/blood-moon-science-symbolism.html</guid>
+    <pubDate>Mon, 05 Jan 2026 03:20:43 GMT</pubDate>
+    <description>An exploration of the Blood Moon, detailing the scientific principles of Rayleigh scattering and Earth&#39;s shadow, while also delving into its rich history of myths and cultural significance across civilizations.</description>
+    <dc:creator>David Vance</dc:creator>
+    <category>Retail Analysis</category>
+    <enclosure url="https://yunhai-dev.github.io/test-website/img/articles/blood-moon-science-symbolism-0.webp" type="image/jpeg" />
+  </item>
+  <item>
+    <title>The Art of Unplanned Discovery: Finding Yourself Through Solo Travel</title>
+    <link>https://yunhai-dev.github.io/test-website/retail-analysis/solo-travel-self-discovery.html</link>
+    <guid isPermaLink="true">https://yunhai-dev.github.io/test-website/retail-analysis/solo-travel-self-discovery.html</guid>
+    <pubDate>Mon, 05 Jan 2026 03:19:15 GMT</pubDate>
+    <description>Explore the transformative power of unplanned solo travel. This guide delves into how wandering without an itinerary, from ancient mountains to city temples, can foster profound self-discovery and inner clarity.</description>
+    <dc:creator>David Vance</dc:creator>
+    <category>Retail Analysis</category>
+    <enclosure url="https://yunhai-dev.github.io/test-website/img/articles/solo-travel-self-discovery-0.webp" type="image/jpeg" />
+  </item>
+  <item>
+    <title>The Rise of Agentic AI: From Conversational Assistant to Autonomous Partner</title>
+    <link>https://yunhai-dev.github.io/test-website/retail-analysis/rise-of-agentic-ai.html</link>
+    <guid isPermaLink="true">https://yunhai-dev.github.io/test-website/retail-analysis/rise-of-agentic-ai.html</guid>
+    <pubDate>Mon, 05 Jan 2026 03:17:18 GMT</pubDate>
+    <description>Agentic AI is transforming the landscape of artificial intelligence, shifting the paradigm from passive, conversational chatbots to autonomous, goal-oriented partners. This article explores the architecture, real-world applications, and future challenges of these intelligent systems, providing...</description>
+    <dc:creator>David Vance</dc:creator>
+    <category>Retail Analysis</category>
+    <enclosure url="https://yunhai-dev.github.io/test-website/img/articles/rise-of-agentic-ai-0.webp" type="image/jpeg" />
+  </item>
+  <item>
+    <title>The Year the Floor Moved: Navigating Existence in an Era of Cognitive Abundance</title>
+    <link>https://yunhai-dev.github.io/test-website/retail-analysis/navigating-cognitive-abundance-2025.html</link>
+    <guid isPermaLink="true">https://yunhai-dev.github.io/test-website/retail-analysis/navigating-cognitive-abundance-2025.html</guid>
+    <pubDate>Mon, 05 Jan 2026 03:15:48 GMT</pubDate>
+    <description>A profound reflection on navigating 2025, exploring the impact of AI abundance on human value, the emotional toll of modern relationships, and the necessity of shifting from romantic passion to pragmatic self-reliance in an unstable world.</description>
+    <dc:creator>David Vance</dc:creator>
+    <category>Retail Analysis</category>
+    <enclosure url="https://yunhai-dev.github.io/test-website/img/articles/navigating-cognitive-abundance-2025-0.webp" type="image/jpeg" />
+  </item>
+  <item>
+    <title>The Great Cognitive Collapse: How AI and Humans are Trapped in a &#34;Brain Rot&#34; Feedback Loop</title>
+    <link>https://yunhai-dev.github.io/test-website/retail-analysis/ai-human-brain-rot-feedback-loop.html</link>
+    <guid isPermaLink="true">https://yunhai-dev.github.io/test-website/retail-analysis/ai-human-brain-rot-feedback-loop.html</guid>
+    <pubDate>Mon, 05 Jan 2026 03:03:14 GMT</pubDate>
+    <description>A comprehensive analysis of the &#34;autophagy loop&#34; between degrading AI models and eroding human cognition. This report explores the &#34;LLM Brain Rot&#34; hypothesis and &#34;Cognitive Debt&#34; phenomenon, revealing how over-reliance on AI and junk data creates a dangerous feedback...</description>
+    <dc:creator>David Vance</dc:creator>
+    <category>Retail Analysis</category>
+    <enclosure url="https://yunhai-dev.github.io/test-website/img/articles/ai-human-brain-rot-feedback-loop-0.webp" type="image/jpeg" />
+  </item>
+  <item>
+    <title>The Great Career Reckoning: Navigating Burnout, Passion, and the Search for Meaning in 2025</title>
+    <link>https://yunhai-dev.github.io/test-website/global-logistics/career-reckoning-burnout-meaning-2025.html</link>
+    <guid isPermaLink="true">https://yunhai-dev.github.io/test-website/global-logistics/career-reckoning-burnout-meaning-2025.html</guid>
+    <pubDate>Mon, 05 Jan 2026 02:52:32 GMT</pubDate>
+    <description>An analysis of the 2025 professional landscape, exploring the intersection of burnout, the commodification of passion, and the search for personal authenticity amidst career pressures.</description>
+    <dc:creator>Marcus Thorne</dc:creator>
+    <category>Global Logistics</category>
+    <enclosure url="https://yunhai-dev.github.io/test-website/img/articles/career-reckoning-burnout-meaning-2025-0.webp" type="image/jpeg" />
+  </item>
+  <item>
+    <title>The Great Career Pivot: Why Passion Isn&#39;t Enough in the Modern Tech Landscape</title>
+    <link>https://yunhai-dev.github.io/test-website/global-logistics/career-pivot-passion-tech.html</link>
+    <guid isPermaLink="true">https://yunhai-dev.github.io/test-website/global-logistics/career-pivot-passion-tech.html</guid>
+    <pubDate>Mon, 05 Jan 2026 02:45:22 GMT</pubDate>
+    <description>An in-depth analysis of the modern tech career, exploring why passion alone is insufficient for long-term success. This article provides actionable strategies for avoiding burnout, balancing personal and professional life, and building a sustainable career through strategic learning and self-awareness.</description>
+    <dc:creator>Marcus Thorne</dc:creator>
+    <category>Global Logistics</category>
+    <enclosure url="https://yunhai-dev.github.io/test-website/img/articles/career-pivot-passion-tech-0.webp" type="image/jpeg" />
+  </item>
+  <item>
+    <title>Navigating the Crossroads of Ambition and Burnout: A 2025 Retrospective</title>
+    <link>https://yunhai-dev.github.io/test-website/global-logistics/ambition-burnout-balance-2025.html</link>
+    <guid isPermaLink="true">https://yunhai-dev.github.io/test-website/global-logistics/ambition-burnout-balance-2025.html</guid>
+    <pubDate>Mon, 05 Jan 2026 02:45:06 GMT</pubDate>
+    <description>An introspective analysis of 2025, exploring the convergence of professional burnout, emotional complexity, and the strategic pivot towards sustainable success and self-awareness in the modern world.</description>
+    <dc:creator>Marcus Thorne</dc:creator>
+    <category>Global Logistics</category>
+    <enclosure url="https://yunhai-dev.github.io/test-website/img/articles/ambition-burnout-balance-2025-0.webp" type="image/jpeg" />
+  </item>
+  <item>
+    <title>The AI Cognitive Paradox: How LLMs Are Shaping a New Era of Human Thought</title>
+    <link>https://yunhai-dev.github.io/test-website/retail-analysis/ai-cognitive-paradox-llms.html</link>
+    <guid isPermaLink="true">https://yunhai-dev.github.io/test-website/retail-analysis/ai-cognitive-paradox-llms.html</guid>
+    <pubDate>Mon, 05 Jan 2026 02:21:27 GMT</pubDate>
+    <description>This article explores the symbiotic relationship between human and AI cognition, examining the risks of &#34;cognitive debt&#34; in humans and &#34;brain rot&#34; in LLMs. It offers strategies for creators to use AI as a collaborative tool rather than a cognitive crutch, preserving critical...</description>
+    <dc:creator>David Vance</dc:creator>
+    <category>Retail Analysis</category>
+    <enclosure url="https://yunhai-dev.github.io/test-website/img/articles/ai-cognitive-paradox-llms-0.webp" type="image/jpeg" />
+  </item>
+  <item>
+    <title>智能时代的认知危机与文化坚守：当AI“脑腐”遇见千年黄历</title>
+    <link>https://yunhai-dev.github.io/test-website/retail-analysis/ai-cognitive-decline-tradition.html</link>
+    <guid isPermaLink="true">https://yunhai-dev.github.io/test-website/retail-analysis/ai-cognitive-decline-tradition.html</guid>
+    <pubDate>Sun, 04 Jan 2026 22:32:21 GMT</pubDate>
+    <description>本文探讨了由顶尖学府联合研究揭示的AI与人类“双向认知退化”现象，同时深入分析了台湾黄历跨越两千年的文化生命力。文章以YUN HAI食品进口商与设计工作室O.OO合作开发2026年黄历为例，揭示了在技术洪流中，品牌如何通过重塑传统文化载体来抵抗认知退化，并为现代生活注入深度与意义。</description>
+    <dc:creator>David Vance</dc:creator>
+    <category>Retail Analysis</category>
+    <enclosure url="https://yunhai-dev.github.io/test-website/img/articles/ai-cognitive-decline-tradition-0.webp" type="image/jpeg" />
+  </item>
+  <item>
+    <title>智能时代的认知危机与文化回归：当AI加速“脑腐”，我们为何重拾黄历？</title>
+    <link>https://yunhai-dev.github.io/test-website/retail-analysis/ai-cognitive-decline-cultural-roots.html</link>
+    <guid isPermaLink="true">https://yunhai-dev.github.io/test-website/retail-analysis/ai-cognitive-decline-cultural-roots.html</guid>
+    <pubDate>Sun, 04 Jan 2026 22:26:37 GMT</pubDate>
+    <description>一项由德州大学、普渡大学及MIT发布的联合研究指出，AI与人类的深度集成正导致“双向认知退化”。与此同时，成立仅数年的品牌“云海”正携手设计工作室O.OO，试图复兴拥有2000年历史的台湾黄历。本文探讨了技术对人类认知的冲击，以及传统文化在数字时代的复兴机遇。</description>
+    <dc:creator>David Vance</dc:creator>
+    <category>Retail Analysis</category>
+    <enclosure url="https://yunhai-dev.github.io/test-website/img/articles/ai-cognitive-decline-cultural-roots-0.webp" type="image/jpeg" />
+  </item>
+  <item>
+    <title>AI与人类的共生退化：当LLM“脑腐”遇上人类“认知债务”</title>
+    <link>https://yunhai-dev.github.io/test-website/trade-policy/ai-human-cognitive-debt.html</link>
+    <guid isPermaLink="true">https://yunhai-dev.github.io/test-website/trade-policy/ai-human-cognitive-debt.html</guid>
+    <pubDate>Sun, 04 Jan 2026 20:58:43 GMT</pubDate>
+    <description>本文深度剖析了由德克萨斯大学、普渡大学及MIT联合提出的“双向认知退化”现象，揭示了AI大模型“脑腐”假设与人类“认知债务”的共生危机。同时，通过台湾独立出版人Lisa Cheng Smith与艺术家Hai-Hsin Huang的奇妙际遇，探讨了在算法时代，物质文化与深度连接对于抵御心智退化的重要意义。</description>
+    <dc:creator>Helena Rossi</dc:creator>
+    <category>Trade Policy</category>
+    <enclosure url="https://yunhai-dev.github.io/test-website/img/articles/ai-human-cognitive-debt-0.webp" type="image/jpeg" />
+  </item>
+</channel>
+</rss>

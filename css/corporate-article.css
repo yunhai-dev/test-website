@@ -1,0 +1,212 @@
+/* Corporate News Article Specific Styling */
+.corp-article-layout {
+    display: grid;
+    grid-template-columns: 2.3fr 1fr;
+    gap: 75px;
+    padding: 50px 0 100px;
+}
+
+.corp-breadcrumb {
+    font-size: 11px;
+    text-transform: uppercase;
+    font-weight: 600;
+    color: var(--cr-gold);
+    margin-bottom: 35px;
+    letter-spacing: 1px;
+}
+
+.corp-header {
+    margin-bottom: 50px;
+}
+
+.corp-kicker {
+    font-size: 12px;
+    font-weight: 700;
+    text-transform: uppercase;
+    color: var(--cr-navy);
+    letter-spacing: 2px;
+    margin-bottom: 15px;
+    border-bottom: 2px solid var(--cr-gold);
+    display: inline-block;
+    padding-bottom: 3px;
+}
+
+.corp-title {
+    font-family: var(--font-heading);
+    font-size: 48px;
+    line-height: 1.1;
+    color: var(--cr-navy);
+    margin: 20px 0;
+    font-weight: 900;
+}
+
+.corp-meta-info {
+    font-size: 14px;
+    color: var(--cr-slate);
+    padding-top: 15px;
+    border-top: 1px solid var(--cr-border);
+}
+
+.author-bold {
+    font-weight: 700;
+    color: var(--cr-text);
+}
+
+.corp-content-rich {
+    font-size: 18px;
+    line-height: 1.85;
+    color: var(--cr-text);
+}
+
+.corp-drop-cap::first-letter {
+    font-family: var(--font-heading);
+    float: left;
+    font-size: 85px;
+    line-height: 68px;
+    padding-right: 12px;
+    color: var(--cr-navy);
+}
+
+.corp-content-rich h2 {
+    font-family: var(--font-heading);
+    font-size: 30px;
+    margin: 45px 0 20px;
+    color: var(--cr-navy);
+    letter-spacing: -0.5px;
+}
+
+.corp-insight-quote {
+    margin: 50px 0;
+    padding: 35px;
+    background-color: var(--cr-gray-light);
+    border-left: 5px solid var(--cr-navy);
+}
+
+.corp-insight-quote p {
+    font-family: var(--font-heading);
+    font-size: 22px;
+    font-style: italic;
+    color: var(--cr-navy);
+    margin-bottom: 15px;
+}
+
+.corp-insight-quote cite {
+    font-size: 13px;
+    text-transform: uppercase;
+    font-weight: 700;
+    color: var(--cr-gold);
+}
+
+.corp-faq-block {
+    margin-top: 70px;
+    padding: 40px;
+    border: 1px solid var(--cr-border);
+    background-color: #fff;
+}
+
+.faq-section-title {
+    font-family: var(--font-heading);
+    font-size: 24px;
+    margin-bottom: 30px;
+    text-align: center;
+    color: var(--cr-navy);
+}
+
+.faq-wrap {
+    margin-bottom: 30px;
+}
+
+.faq-q {
+    font-weight: 700;
+    font-size: 17px;
+    color: var(--cr-navy);
+    margin-bottom: 10px;
+}
+
+.faq-a {
+    font-size: 16px;
+    color: var(--cr-slate);
+}
+
+.corp-author-profile {
+    margin-top: 80px;
+    display: flex;
+    gap: 30px;
+    align-items: center;
+    padding: 35px;
+    background-color: #fcfaf7;
+    border-top: 3px solid var(--cr-navy);
+}
+
+.corp-initial-mark {
+    width: 65px;
+    height: 65px;
+    background-color: var(--cr-navy);
+    color: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: 700;
+    font-size: 22px;
+    flex-shrink: 0;
+}
+
+.corp-bio-detail h5 {
+    font-size: 18px;
+    margin-bottom: 8px;
+}
+
+.widget-h {
+    font-family: var(--font-heading);
+    font-size: 18px;
+    margin-bottom: 20px;
+    text-transform: uppercase;
+    color: var(--cr-navy);
+}
+
+.brief-box {
+    background-color: var(--cr-navy);
+    color: #fff;
+    padding: 25px;
+}
+
+.brief-box .widget-h { color: var(--cr-gold); }
+
+.brief-item {
+    font-size: 14px;
+    margin-bottom: 10px;
+    border-bottom: 1px solid rgba(255,255,255,0.1);
+    padding-bottom: 8px;
+}
+
+.focus-links {
+    list-style: none;
+}
+
+.focus-links li {
+    margin-bottom: 15px;
+    font-weight: 600;
+    font-size: 15px;
+}
+
+.corp-promo-node {
+    padding: 30px;
+    background-color: var(--cr-gold);
+    color: var(--cr-navy);
+}
+
+.corp-promo-node h5 { font-size: 19px; margin-bottom: 15px; }
+
+.corp-cta {
+    display: inline-block;
+    margin-top: 15px;
+    font-weight: 700;
+    text-transform: uppercase;
+    font-size: 12px;
+}
+
+@media (max-width: 768px) {
+    .corp-article-layout { grid-template-columns: 1fr; }
+    .corp-title { font-size: 32px; }
+    .corp-author-profile { flex-direction: column; text-align: center; }
+}

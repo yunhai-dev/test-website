@@ -1,0 +1,214 @@
+/* Digital Commerce Article Styling */
+.dc-article-wrap {
+    display: grid;
+    grid-template-columns: 2.4fr 1fr;
+    gap: 60px;
+    padding: 60px 0 100px;
+}
+
+.dc-breadcrumb-nav {
+    font-size: 11px;
+    text-transform: uppercase;
+    letter-spacing: 1.5px;
+    margin-bottom: 35px;
+    color: var(--cr-slate);
+}
+
+.dc-header {
+    margin-bottom: 40px;
+    border-top: 5px solid #0f172a;
+    padding-top: 25px;
+}
+
+.dc-cat-label {
+    color: #3b82f6; /* Modern Digital Blue */
+    font-weight: 700;
+    text-transform: uppercase;
+    font-size: 11px;
+    margin-bottom: 12px;
+}
+
+.dc-h1 {
+    font-family: var(--font-heading);
+    font-size: 44px;
+    line-height: 1.1;
+    color: #0f172a;
+    margin-bottom: 25px;
+}
+
+.dc-post-meta {
+    font-size: 13px;
+    color: var(--cr-slate);
+    text-transform: uppercase;
+    font-weight: 600;
+    letter-spacing: 0.5px;
+}
+
+.author-link {
+    color: #3b82f6;
+}
+
+.dc-visual-container {
+    margin: 45px 0;
+}
+
+.dc-visual-container img {
+    width: 100%;
+    border-radius: 8px;
+    box-shadow: 0 20px 40px rgba(0,0,0,0.1);
+}
+
+.dc-caption {
+    display: block;
+    font-size: 13px;
+    color: #94a3b8;
+    margin-top: 15px;
+    text-align: center;
+}
+
+.dc-entry-rich-text {
+    font-size: 18px;
+    line-height: 1.9;
+    color: #1e293b;
+}
+
+.dc-drop-cap::first-letter {
+    font-family: var(--font-heading);
+    float: left;
+    font-size: 88px;
+    line-height: 70px;
+    padding-right: 15px;
+    color: #0f172a;
+    font-weight: 900;
+}
+
+.dc-entry-rich-text h2 {
+    font-family: var(--font-heading);
+    font-size: 32px;
+    margin: 50px 0 20px;
+    color: #0f172a;
+}
+
+.dc-tech-pullquote {
+    background: linear-gradient(135deg, #0f172a, #1e293b);
+    color: #fff;
+    padding: 40px;
+    margin: 50px 0;
+    font-family: var(--font-heading);
+    font-size: 26px;
+    font-style: italic;
+    border-radius: 4px;
+    position: relative;
+    overflow: hidden;
+}
+
+.dc-tech-pullquote::before {
+    content: "{";
+    position: absolute;
+    top: -20px;
+    left: 10px;
+    font-size: 120px;
+    color: rgba(59, 130, 246, 0.2);
+    font-family: serif;
+}
+
+.dc-faq-module {
+    margin-top: 80px;
+    padding: 50px;
+    background-color: #f8fafc;
+    border: 1px solid #e2e8f0;
+    border-radius: 12px;
+}
+
+.dc-faq-title {
+    font-family: var(--font-heading);
+    font-size: 26px;
+    margin-bottom: 40px;
+    color: #0f172a;
+}
+
+.dc-faq-row {
+    margin-bottom: 35px;
+}
+
+.dc-q {
+    font-weight: 700;
+    font-size: 18px;
+    color: #3b82f6;
+    margin-bottom: 10px;
+}
+
+.dc-a {
+    font-size: 16px;
+    color: #475569;
+}
+
+.dc-contributor-box {
+    margin-top: 80px;
+    padding: 40px;
+    background-color: #f1f5f9;
+    display: flex;
+    gap: 30px;
+    align-items: center;
+    border-radius: 8px;
+}
+
+.dc-avatar-circle {
+    width: 70px;
+    height: 70px;
+    background-color: #3b82f6;
+    color: white;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: 700;
+    font-size: 22px;
+    flex-shrink: 0;
+}
+
+.dc-widget-h {
+    font-family: var(--font-heading);
+    font-size: 22px;
+    margin-bottom: 30px;
+    color: #0f172a;
+}
+
+.dc-trend-list {
+    list-style: none;
+}
+
+.dc-trend-list li {
+    margin-bottom: 20px;
+    font-size: 15px;
+    font-weight: 600;
+}
+
+.saas-promo {
+    padding: 35px;
+    background-color: #0f172a;
+    color: white;
+    border-radius: 8px;
+}
+
+.saas-promo h5 {
+    color: #3b82f6;
+    font-size: 19px;
+    margin-bottom: 15px;
+}
+
+.dc-cta-btn {
+    display: inline-block;
+    margin-top: 20px;
+    color: #3b82f6;
+    font-weight: 700;
+    text-transform: uppercase;
+    font-size: 12px;
+}
+
+@media (max-width: 768px) {
+    .dc-article-wrap { grid-template-columns: 1fr; }
+    .dc-h1 { font-size: 34px; }
+    .dc-tech-pullquote { padding: 30px; font-size: 22px; }
+    .dc-contributor-box { flex-direction: column; text-align: center; }
+}

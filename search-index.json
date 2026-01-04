@@ -1,0 +1,479 @@
+[
+  {
+    "title": "The Blood Moon Phenomenon: A Celestial Event That Bridges Science, Culture, and Travel",
+    "excerpt": "Explore the science of the blood moon, from atmospheric refraction to its role in global mythology. This article also delves into the unique experience of witnessing this celestial event from unexpected locations like Bengbu, offering a fresh perspective on astronomy and travel.",
+    "url": "https://yunhai-dev.github.io/test-website/strategic-insights/blood-moon-phenomenon-explained/",
+    "channel": "Strategic Insights",
+    "tags": [
+      "blood moon",
+      "lunar eclipse",
+      "atmospheric science",
+      "celestial mythology",
+      "travel observation"
+    ],
+    "date": "2026-01-05T03:39:31.504430"
+  },
+  {
+    "title": "The Art of the Unplanned Journey: Finding Yourself Through Solo Travel",
+    "excerpt": "An in-depth exploration of the philosophy and practice of unplanned solo travel. Learn how wandering without an itinerary fosters self-discovery, resilience, and genuine connection with the world.",
+    "url": "https://yunhai-dev.github.io/test-website/corporate/unplanned-journey-solo-travel/",
+    "channel": "Corporate",
+    "tags": [
+      "solo travel",
+      "unplanned journey",
+      "self-discovery",
+      "travel philosophy",
+      "serendipity",
+      "slow travel"
+    ],
+    "date": "2026-01-05T03:37:57.527044"
+  },
+  {
+    "title": "Agentic AI: The Evolution from Conversational Assistant to Autonomous Digital Partner",
+    "excerpt": "An in-depth analysis of Agentic AI, exploring its architectural components, real-world applications, and the challenges of moving from chatbots to autonomous digital partners that can execute complex tasks.",
+    "url": "https://yunhai-dev.github.io/test-website/digital-commerce/agentic-ai-evolution-autonomous-partner/",
+    "channel": "Digital Commerce",
+    "tags": [
+      "Agentic AI",
+      "autonomous agents",
+      "LLM",
+      "AI architecture",
+      "future of work"
+    ],
+    "date": "2026-01-05T03:37:10.796840"
+  },
+  {
+    "title": "YUN Share: The Ultimate Guide to Frictionless Static Web Hosting for Developers",
+    "excerpt": "A comprehensive guide to YUN Share, a lightweight static web hosting tool that allows developers to deploy websites via a simple ZIP upload and email verification. Learn the workflow, requirements, and use cases for frictionless project sharing.",
+    "url": "https://yunhai-dev.github.io/test-website/retail-analysis/ultimate-guide-static-web-hosting/",
+    "channel": "Retail Analysis",
+    "tags": [
+      "static web hosting",
+      "frontend tools",
+      "YUN Share",
+      "rapid deployment",
+      "email verification",
+      "zip upload",
+      "web development workflow"
+    ],
+    "date": "2026-01-05T03:33:28.227993"
+  },
+  {
+    "title": "The Eternal Echo: How Modern China is Keeping Ancient Poetry and Dreams Alive",
+    "excerpt": "Explore how modern China is reviving its ancient cultural heritage through futuristic architecture, the explosion of Guofeng music, and a renewed passion for classical poetry, blending tradition with contemporary life.",
+    "url": "https://yunhai-dev.github.io/test-website/retail-analysis/modern-china-ancient-poetry/",
+    "channel": "Retail Analysis",
+    "tags": [
+      "Guofeng music",
+      "Chinese cultural revival",
+      "Shanghai architecture",
+      "modern poetry",
+      "traditional arts",
+      "Chinese heritage"
+    ],
+    "date": "2026-01-05T03:32:28.621415"
+  },
+  {
+    "title": "Mastering Cloud File Uploads: A Deep Dive into OSS Direct Upload Architecture",
+    "excerpt": "Explore the evolution of file upload architectures, from traditional server-relay methods to modern, high-performance direct-to-cloud uploads using Object Storage Service (OSS). This deep dive covers the technical implementation, cost benefits, and strategic advantages of using pre-signed URLs for s",
+    "url": "https://yunhai-dev.github.io/test-website/retail-analysis/oss-direct-upload-architecture/",
+    "channel": "Retail Analysis",
+    "tags": [
+      "OSS",
+      "Object Storage",
+      "Direct Upload",
+      "Pre-signed URL",
+      "File Upload Architecture",
+      "Cloud Storage",
+      "Performance Optimization"
+    ],
+    "date": "2026-01-05T03:31:04.232039"
+  },
+  {
+    "title": "JuiceFS: A Deep Dive into the High-Performance Distributed File System",
+    "excerpt": "Explore JuiceFS, the open-source distributed file system that combines the scalability of object storage with the performance of a local file system. Learn about its architecture, POSIX compatibility, and use cases in AI and Big Data.",
+    "url": "https://yunhai-dev.github.io/test-website/retail-analysis/juicefs-distributed-file-system/",
+    "channel": "Retail Analysis",
+    "tags": [
+      "JuiceFS",
+      "Distributed File System",
+      "Object Storage",
+      "POSIX",
+      "Kubernetes Storage",
+      "Metadata Engine",
+      "MinIO",
+      "Redis"
+    ],
+    "date": "2026-01-05T03:30:07.490847"
+  },
+  {
+    "title": "LangGraph Explained: The Framework for Building Stateful AI Agent Workflows",
+    "excerpt": "Explore LangGraph, the stateful framework for building dynamic AI agent workflows. This guide covers its core architecture, including nodes, edges, and state management, and provides practical examples for creating persistent, multi-step AI systems.",
+    "url": "https://yunhai-dev.github.io/test-website/retail-analysis/langgraph-stateful-ai-agents/",
+    "channel": "Retail Analysis",
+    "tags": [
+      "LangGraph",
+      "AI Agents",
+      "Stateful Workflows",
+      "LLM Orchestration",
+      "LangChain",
+      "AI Automation"
+    ],
+    "date": "2026-01-05T03:28:39.578030"
+  },
+  {
+    "title": "The Luminous Enigma: Unraveling the Science and Symbolism of a Blood Moon",
+    "excerpt": "An exploration of the Blood Moon, detailing the scientific principles of Rayleigh scattering and Earth's shadow, while also delving into its rich history of myths and cultural significance across civilizations.",
+    "url": "https://yunhai-dev.github.io/test-website/retail-analysis/blood-moon-science-symbolism/",
+    "channel": "Retail Analysis",
+    "tags": [
+      "Blood Moon",
+      "lunar eclipse",
+      "Rayleigh scattering",
+      "Earth's shadow",
+      "celestial mythology"
+    ],
+    "date": "2026-01-05T03:20:43.950388"
+  },
+  {
+    "title": "The Art of Unplanned Discovery: Finding Yourself Through Solo Travel",
+    "excerpt": "Explore the transformative power of unplanned solo travel. This guide delves into how wandering without an itinerary, from ancient mountains to city temples, can foster profound self-discovery and inner clarity.",
+    "url": "https://yunhai-dev.github.io/test-website/retail-analysis/solo-travel-self-discovery/",
+    "channel": "Retail Analysis",
+    "tags": [
+      "solo travel",
+      "self-discovery",
+      "unplanned journey",
+      "mindful travel",
+      "introspection"
+    ],
+    "date": "2026-01-05T03:19:15.193838"
+  },
+  {
+    "title": "The Rise of Agentic AI: From Conversational Assistant to Autonomous Partner",
+    "excerpt": "Agentic AI is transforming the landscape of artificial intelligence, shifting the paradigm from passive, conversational chatbots to autonomous, goal-oriented partners. This article explores the architecture, real-world applications, and future challenges of these intelligent systems, providing an in",
+    "url": "https://yunhai-dev.github.io/test-website/retail-analysis/rise-of-agentic-ai/",
+    "channel": "Retail Analysis",
+    "tags": [
+      "Agentic AI",
+      "Autonomous Agents",
+      "AI Evolution",
+      "LLM",
+      "Intelligent Automation"
+    ],
+    "date": "2026-01-05T03:17:18.133112"
+  },
+  {
+    "title": "The Year the Floor Moved: Navigating Existence in an Era of Cognitive Abundance",
+    "excerpt": "A profound reflection on navigating 2025, exploring the impact of AI abundance on human value, the emotional toll of modern relationships, and the necessity of shifting from romantic passion to pragmatic self-reliance in an unstable world.",
+    "url": "https://yunhai-dev.github.io/test-website/retail-analysis/navigating-cognitive-abundance-2025/",
+    "channel": "Retail Analysis",
+    "tags": [
+      "AI cognitive surplus",
+      "professional burnout",
+      "sunk cost fallacy",
+      "emotional vulnerability",
+      "career pivot",
+      "self-reliance"
+    ],
+    "date": "2026-01-05T03:15:48.479986"
+  },
+  {
+    "title": "The Great Cognitive Collapse: How AI and Humans are Trapped in a \"Brain Rot\" Feedback Loop",
+    "excerpt": "A comprehensive analysis of the \"autophagy loop\" between degrading AI models and eroding human cognition. This report explores the \"LLM Brain Rot\" hypothesis and \"Cognitive Debt\" phenomenon, revealing how over-reliance on AI and junk data creates a dangerous feedback cycle threatening intellectual p",
+    "url": "https://yunhai-dev.github.io/test-website/retail-analysis/ai-human-brain-rot-feedback-loop/",
+    "channel": "Retail Analysis",
+    "tags": [
+      "LLM Brain Rot",
+      "Cognitive Debt",
+      "Autophagy Loop",
+      "AI Degradation",
+      "Model Collapse",
+      "Cognitive Hygiene"
+    ],
+    "date": "2026-01-05T03:03:14.092145"
+  },
+  {
+    "title": "The Great Career Reckoning: Navigating Burnout, Passion, and the Search for Meaning in 2025",
+    "excerpt": "An analysis of the 2025 professional landscape, exploring the intersection of burnout, the commodification of passion, and the search for personal authenticity amidst career pressures.",
+    "url": "https://yunhai-dev.github.io/test-website/global-logistics/career-reckoning-burnout-meaning-2025/",
+    "channel": "Global Logistics",
+    "tags": [
+      "career burnout",
+      "professional growth",
+      "work-life balance",
+      "passion economy",
+      "2025 trends"
+    ],
+    "date": "2026-01-05T02:52:32.452423"
+  },
+  {
+    "title": "The Great Career Pivot: Why Passion Isn't Enough in the Modern Tech Landscape",
+    "excerpt": "An in-depth analysis of the modern tech career, exploring why passion alone is insufficient for long-term success. This article provides actionable strategies for avoiding burnout, balancing personal and professional life, and building a sustainable career through strategic learning and self-awarene",
+    "url": "https://yunhai-dev.github.io/test-website/global-logistics/career-pivot-passion-tech/",
+    "channel": "Global Logistics",
+    "tags": [
+      "career development",
+      "tech burnout",
+      "sustainable career",
+      "professional growth",
+      "work-life balance",
+      "passion vs. profession"
+    ],
+    "date": "2026-01-05T02:45:22.843882"
+  },
+  {
+    "title": "Navigating the Crossroads of Ambition and Burnout: A 2025 Retrospective",
+    "excerpt": "An introspective analysis of 2025, exploring the convergence of professional burnout, emotional complexity, and the strategic pivot towards sustainable success and self-awareness in the modern world.",
+    "url": "https://yunhai-dev.github.io/test-website/global-logistics/ambition-burnout-balance-2025/",
+    "channel": "Global Logistics",
+    "tags": [
+      "2025 retrospective",
+      "professional burnout",
+      "emotional intelligence",
+      "career strategy",
+      "personal growth",
+      "sunk cost fallacy"
+    ],
+    "date": "2026-01-05T02:45:06.148419"
+  },
+  {
+    "title": "The AI Cognitive Paradox: How LLMs Are Shaping a New Era of Human Thought",
+    "excerpt": "This article explores the symbiotic relationship between human and AI cognition, examining the risks of \"cognitive debt\" in humans and \"brain rot\" in LLMs. It offers strategies for creators to use AI as a collaborative tool rather than a cognitive crutch, preserving critical thinking skills.",
+    "url": "https://yunhai-dev.github.io/test-website/retail-analysis/ai-cognitive-paradox-llms/",
+    "channel": "Retail Analysis",
+    "tags": [
+      "AI cognition",
+      "cognitive debt",
+      "LLM degradation",
+      "human-AI collaboration",
+      "stylized prompting",
+      "model collapse"
+    ],
+    "date": "2026-01-05T02:21:27.720109"
+  },
+  {
+    "title": "智能时代的认知危机与文化坚守：当AI“脑腐”遇见千年黄历",
+    "excerpt": "本文探讨了由顶尖学府联合研究揭示的AI与人类“双向认知退化”现象，同时深入分析了台湾黄历跨越两千年的文化生命力。文章以YUN HAI食品进口商与设计工作室O.OO合作开发2026年黄历为例，揭示了在技术洪流中，品牌如何通过重塑传统文化载体来抵抗认知退化，并为现代生活注入深度与意义。",
+    "url": "https://yunhai-dev.github.io/test-website/retail-analysis/ai-cognitive-decline-tradition/",
+    "channel": "Retail Analysis",
+    "tags": [
+      "AI认知退化",
+      "双向认知退化",
+      "台湾黄历",
+      "YUN HAI",
+      "文化传承"
+    ],
+    "date": "2026-01-04T22:32:21.936393"
+  },
+  {
+    "title": "智能时代的认知危机与文化回归：当AI加速“脑腐”，我们为何重拾黄历？",
+    "excerpt": "一项由德州大学、普渡大学及MIT发布的联合研究指出，AI与人类的深度集成正导致“双向认知退化”。与此同时，成立仅数年的品牌“云海”正携手设计工作室O.OO，试图复兴拥有2000年历史的台湾黄历。本文探讨了技术对人类认知的冲击，以及传统文化在数字时代的复兴机遇。",
+    "url": "https://yunhai-dev.github.io/test-website/retail-analysis/ai-cognitive-decline-cultural-roots/",
+    "channel": "Retail Analysis",
+    "tags": [
+      "AI认知退化",
+      "双向认知退化",
+      "云海 Yun Hai",
+      "台湾黄历",
+      "O.OO设计",
+      "数字时代文化复兴",
+      "LLM脑腐"
+    ],
+    "date": "2026-01-04T22:26:37.413417"
+  },
+  {
+    "title": "AI与人类的共生退化：当LLM“脑腐”遇上人类“认知债务”",
+    "excerpt": "本文深度剖析了由德克萨斯大学、普渡大学及MIT联合提出的“双向认知退化”现象，揭示了AI大模型“脑腐”假设与人类“认知债务”的共生危机。同时，通过台湾独立出版人Lisa Cheng Smith与艺术家Hai-Hsin Huang的奇妙际遇，探讨了在算法时代，物质文化与深度连接对于抵御心智退化的重要意义。",
+    "url": "https://yunhai-dev.github.io/test-website/trade-policy/ai-human-cognitive-debt/",
+    "channel": "Trade Policy",
+    "tags": [
+      "双向认知退化",
+      "LLM脑腐",
+      "认知债务",
+      "Lisa Cheng Smith",
+      "台湾独立出版",
+      "AI伦理"
+    ],
+    "date": "2026-01-04T20:58:43.086000"
+  },
+  {
+    "title": "认知的共生退化：当AI“脑腐”遇上人类的“认知债务”",
+    "excerpt": "一项由德克萨斯大学、普渡大学和MIT发布的联合研究揭示了AI与人类之间的“双向认知退化”现象，即AI的“脑腐”与人类的“认知债务”。本文深入探讨了这一概念，并结合台湾艺术家黄海馨的Zine《Miscellaneous Thoughts #1》以及Yun Hai商店的文化实践，分析了在算法时代，我们应如何通过艺术、物质性和实体连接来对抗心智的衰退，保持认知的自主性与深度。",
+    "url": "https://yunhai-dev.github.io/test-website/trade-policy/cognitive-degradation-ai-human/",
+    "channel": "Trade Policy",
+    "tags": [
+      "双向认知退化",
+      "AI脑腐",
+      "认知债务",
+      "黄海馨",
+      "Miscellaneous Thoughts #1",
+      "Yun Hai",
+      "Lisa Cheng Smith",
+      "大语言模型",
+      "心智健康",
+      "数字时代"
+    ],
+    "date": "2026-01-04T20:53:02.093703"
+  },
+  {
+    "title": "认知退化与纸上的诗意：当AI重塑心智，我们如何在独立出版物中寻找人性？",
+    "excerpt": "本文探讨了由MIT等机构提出的“双向认知退化”理论，揭示AI与人类共生的智力风险；同时，通过剖析台湾艺术家Hai-Hsin Huang的独立Zine《Miscellaneous Thoughts #1》，展现传统出版物在抵抗数字同质化、守护人性价值中的独特文化力量。",
+    "url": "https://yunhai-dev.github.io/test-website/trade-policy/ai-cognitive-degradation-humanity/",
+    "channel": "Trade Policy",
+    "tags": [
+      "双向认知退化",
+      "AI与人类",
+      "认知债务",
+      "台湾独立出版",
+      "Zine文化",
+      "Hai-Hsin Huang",
+      "可爱-怪诞"
+    ],
+    "date": "2026-01-04T20:49:44.001240"
+  },
+  {
+    "title": "认知的共谋：当AI“脑腐”遇上人类的“认知债务”",
+    "excerpt": "本文探讨了由MIT等机构研究的AI与人类“双向认知退化”现象，即“认知债务”与AI“脑腐”。同时，通过台湾艺术家Hai-Hsin Huang的zine和Yun Hai书店的故事，揭示了在AI时代，纸质出版物和物质文化如何成为对抗思维同质化的重要力量。",
+    "url": "https://yunhai-dev.github.io/test-website/trade-policy/ai-cognitive-debt-crisis/",
+    "channel": "Trade Policy",
+    "tags": [
+      "AI认知退化",
+      "双向认知债务",
+      "台湾独立出版",
+      "Hai-Hsin Huang",
+      "Lisa Cheng Smith",
+      "Yun Hai"
+    ],
+    "date": "2026-01-04T20:43:32.941122"
+  },
+  {
+    "title": "认知的共生退化：当AI“脑腐”遇上人类的“认知债务”",
+    "excerpt": "一项由德克萨斯大学、普渡大学和MIT联合发布的研究指出，AI与人类的深度集成正引发“双向认知退化”，即AI的“脑腐”与人类的“认知债务”。本文深度解析这一现象，并通过Yun Hai创始人发现台湾艺术家Zine的奇妙故事，探讨在算法时代如何保持真实的连接与独立思考。",
+    "url": "https://yunhai-dev.github.io/test-website/trade-policy/cognitive-degradation-ai-human/",
+    "channel": "Trade Policy",
+    "tags": [
+      "AI认知退化",
+      "双向认知退化",
+      "脑腐",
+      "认知债务",
+      "大语言模型",
+      "Yun Hai",
+      "台湾艺术",
+      "人机共生"
+    ],
+    "date": "2026-01-04T20:41:43.586527"
+  },
+  {
+    "title": "智能系统的双向演化：大语言模型“脑腐”假设与人类“认知债务”的共生退化研究报告",
+    "excerpt": "本文深度解析了由德克萨斯大学、普渡大学和MIT联合提出的“双向认知退化”理论，探讨了大语言模型的“脑腐”假设与人类的“认知债务”。同时，通过引入台湾独立出版物与文化电商的案例，揭示了在AI时代保持人类认知独特性与实体文化价值的重要性。",
+    "url": "https://yunhai-dev.github.io/test-website/strategic-insights/llm-brain-rot-cognitive-debt/",
+    "channel": "Strategic Insights",
+    "tags": [
+      "双向认知退化",
+      "脑腐假设",
+      "认知债务",
+      "台湾独立出版",
+      "LLM",
+      "AI伦理",
+      "文化电商"
+    ],
+    "date": "2026-01-04T20:36:38.019828"
+  },
+  {
+    "title": "隐秘的交织：从AI认知退化、千年黄历到太空竞赛的蝴蝶效应",
+    "excerpt": "在我们这个时代，最深刻的变革往往不是来自单一的宏大叙事，而是源于看似无关领域的隐秘交织。我们习惯于将技术进步、文化传承与地缘政治视为独立的轨道，但现实却远比这复杂。当你沉浸在人工智能（AI）带来的便利时，你的认知模式可能正在发生微妙的改变；当一个美国品牌试图复兴拥有两千年历史的台湾黄历时，它实际上是在触碰一种深层的文化记忆；而当一个大国在太空中部署其“天眼”时，其影响早已超越了军事范畴，渗透进全球...",
+    "url": "https://yunhai-dev.github.io/test-website/retail-analysis/ai-cognitive-degradation-butterfly-effect/",
+    "channel": "Retail Analysis",
+    "tags": [],
+    "date": "2026-01-04T16:33:41.103767"
+  },
+  {
+    "title": "认知的黄昏与时间的循环：当AI遇上千年黄历的启示",
+    "excerpt": "在2025年的今天，我们正站在一个前所未有的十字路口。一边是人工智能以前所未有的速度重塑人类的思维模式，引发了关于“双向认知退化”的深刻忧虑；另一边，则是台湾民间延续千年的生活智慧——黄历，正以一种出人意料的方式在现代社会中回潮。当德州大学与MIT的联合研究敲响警钟，当Yun Hai与O.OO设计工作室联手重塑2026年的黄历，我们不禁要问：在算法主导的未来，人类是否需要重新向古老的智慧寻求指引？",
+    "url": "https://yunhai-dev.github.io/test-website/retail-analysis/ai-chinese-almanac-renaissance/",
+    "channel": "Retail Analysis",
+    "tags": [],
+    "date": "2026-01-04T16:16:32.098368"
+  },
+  {
+    "title": "认知的退化与黄历的复兴：在AI时代，我们如何重拾时间的仪式感？",
+    "excerpt": "在算法推荐与大语言模型席卷而来的今天，我们的思维习惯正在发生微妙而深刻的改变。一方面，我们享受着前所未有的信息便利；另一方面，一种名为“双向认知退化”的现象正在悄然蔓延。当人工智能的“思考”方式开始影响人类的认知结构时，我们是否正在失去某些古老而珍贵的智慧？在台湾，一家名为 Yun Hai 的品牌与设计工作室 O.OO 正试图通过复兴拥有两千年历史的“黃曆”（huáng...",
+    "url": "https://yunhai-dev.github.io/test-website/retail-analysis/cognitive-degradation-ai-rituals/",
+    "channel": "Retail Analysis",
+    "tags": [],
+    "date": "2026-01-04T16:13:44.065436"
+  },
+  {
+    "title": "AI时代的认知危机与千年黄历的复兴：当技术进步遭遇文化坚守",
+    "excerpt": "在人工智能浪潮席卷全球的今天，我们正面临一个前所未有的悖论：越是依赖技术来提升效率，我们的认知能力反而可能越加退化。与此同时，一项跨越两千年的传统文化实践——中国黄历，却在数字时代焕发出新的生机。这看似矛盾的两幕，共同描绘了人类在技术洪流中寻找平衡与意义的复杂图景。",
+    "url": "https://yunhai-dev.github.io/test-website/retail-analysis/ai-cognitive-crisis-huangli/",
+    "channel": "Retail Analysis",
+    "tags": [],
+    "date": "2026-01-04T16:11:54.166081"
+  },
+  {
+    "title": "在AI浪潮中，我们为何仍迷恋一本百年黄历？——当“双向认知退化”遇见东方智慧",
+    "excerpt": "在人工智能（AI）似乎能解答一切的今天，一个看似矛盾的现象正在发生：那些承载着古老智慧与农耕文明的传统黄历（huáng lì），依然在全球畅销书榜单上占据着不可撼动的一席之地。这不仅仅是一种怀旧情绪，更深层地，它反映了人类在面对技术巨变时的一种本能防御与文化寻根。当顶尖学府的研究敲响“双向认知退化”的警钟，当一家名为Yun...",
+    "url": "https://yunhai-dev.github.io/test-website/retail-analysis/why-we-still-love-chinese-almanac/",
+    "channel": "Retail Analysis",
+    "tags": [],
+    "date": "2026-01-04T16:09:29.127675"
+  },
+  {
+    "title": "认知退化与文化复兴：当人工智能遇见千年黄历，我们如何重塑未来？",
+    "excerpt": "在算法无处不在的今天，我们是否正悄然失去独立思考的能力？与此同时，那些传承千年的古老智慧，又能否在数字浪潮中焕发新生？这并非科幻小说的开篇，而是我们正在经历的现实。一项由德克萨斯大学、普渡大学和麻省理工学院（MIT）联合发布的重磅研究，揭示了人工智能与人类深度集成背后的“双向认知退化”现象。而在地球的另一端，台湾品牌 Yun Hai 正携手设计工作室...",
+    "url": "https://yunhai-dev.github.io/test-website/retail-analysis/ai-cognitive-decline-cultural-revival/",
+    "channel": "Retail Analysis",
+    "tags": [],
+    "date": "2026-01-04T16:05:37.796705"
+  },
+  {
+    "title": "AI时代的认知困境与千年黄历的回响：在“双向退化”中寻找平衡",
+    "excerpt": "在算法与数据驱动的今天，我们正以前所未有的速度拥抱人工智能（AI）带来的便利。然而，当我们沉浸在大型语言模型（LLM）无所不知的“幻觉”中时，一个更深层次的问题正在浮现。与此同时，在遥远的东方，一部传承了两千多年的古老历书——黄曆，依然在悄无声息地指导着人们的日常生活。这两者看似毫不相关，却在2025年的当下，共同指向了一个关于人类认知、技术与传统的深刻命题。",
+    "url": "https://yunhai-dev.github.io/test-website/retail-analysis/ai-tradition-balance-crisis/",
+    "channel": "Retail Analysis",
+    "tags": [],
+    "date": "2026-01-04T16:02:08.187878"
+  },
+  {
+    "title": "AI时代的认知危机与千年黄历的复兴：当算法遇上东方智慧",
+    "excerpt": "在人工智能飞速发展的今天，我们正面临一个前所未有的悖论：我们越是依赖AI来增强认知，我们的原始思考能力似乎就越在悄然流失。与此同时，一种拥有超过两千年历史的古老智慧载体——中国农历通书（黄历），却在现代商业设计的赋能下，重新焕发生机，甚至成为炙手可热的文化商品。这不仅是两个看似无关的现象，更是对我们这个时代技术与文化关系的深刻隐喻。",
+    "url": "https://yunhai-dev.github.io/test-website/retail-analysis/ai-cognitive-crisis-huangli/",
+    "channel": "Retail Analysis",
+    "tags": [],
+    "date": "2026-01-04T15:58:38.877557"
+  },
+  {
+    "title": "当AI遇上黄历：一场跨越千年的文化对话与现代认知危机",
+    "excerpt": "当我们站在2025年的技术十字路口，一边是即将复兴的千年传统——台湾农历通书，另一边是迫在眉睫的现代危机——AI与人类认知的双向退化。这两条看似平行的时间线，正在奇妙地交汇。",
+    "url": "https://yunhai-dev.github.io/test-website/retail-analysis/ai-chinese-almanac-crisis/",
+    "channel": "Retail Analysis",
+    "tags": [],
+    "date": "2026-01-04T15:56:00.826019"
+  },
+  {
+    "title": "认知、文化与轨道：解码当代社会的三重变奏曲",
+    "excerpt": "在人工智能的幽影笼罩人类思维、古老黄历在数字时代重获新生、以及遥感卫星在太空中悄然重塑地缘政治格局的今天，我们正身处一个前所未有的复杂交汇点。这不仅仅是技术的迭代，更是人类认知模式、文化传承方式与国家战略能力的深刻重构。从德克萨斯大学与麻省理工学院关于“认知退化”的警示，到台湾街头巷尾流传两千年的黄历智慧，再到中国在大气层外部署的“天眼”网络，这三条看似平行的线索，实则共同编织了一幅关于现代文明演...",
+    "url": "https://yunhai-dev.github.io/test-website/retail-analysis/cognition-culture-technology-society/",
+    "channel": "Retail Analysis",
+    "tags": [],
+    "date": "2026-01-04T15:52:35.810573"
+  },
+  {
+    "title": "The Cognitive Horizon: How AI, Ancient Wisdom, and Satellite Eyes Are Reshaping Our Future",
+    "excerpt": "In an era defined by rapid technological acceleration, humanity finds itself at a fascinating crossroads. We are simultaneously building artificial minds that challenge our own cognition,...",
+    "url": "https://yunhai-dev.github.io/test-website/retail-analysis/ai-ancient-wisdom-satellite/",
+    "channel": "Retail Analysis",
+    "tags": [],
+    "date": "2026-01-04T15:48:34.656584"
+  },
+  {
+    "title": "从黄历到天基监视：当传统文化、AI认知与太空技术交织的未来图景",
+    "excerpt": "在我们这个时代，最引人入胜的叙事往往并非单一维度的线性发展，而是多个看似无关的领域在深层逻辑上的共振。我们正站在一个独特的十字路口：一边是延续千年的传统智慧，试图在现代设计中寻找新的生命力；另一边是颠覆性的技术浪潮，正在重塑我们的认知边界；而头顶之上，国家的太空能力——包括那些用于气象监测和军事侦察的卫星——正以前所未有的密度编织着一张无形的巨网。",
+    "url": "https://yunhai-dev.github.io/test-website/retail-analysis/traditional-ai-space-future/",
+    "channel": "Retail Analysis",
+    "tags": [],
+    "date": "2026-01-04T15:42:20.500977"
+  }
+]

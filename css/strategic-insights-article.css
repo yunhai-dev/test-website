@@ -1,0 +1,209 @@
+/* High-End Executive Report Styles */
+.si-premium-layout {
+    display: grid;
+    grid-template-columns: 2.2fr 1fr;
+    gap: 80px;
+    padding: 60px 0 120px;
+}
+
+.si-crumbs {
+    font-size: 11px;
+    text-transform: uppercase;
+    font-weight: 600;
+    color: var(--cr-gold);
+    margin-bottom: 40px;
+    letter-spacing: 2px;
+}
+
+.si-report-header {
+    margin-bottom: 60px;
+}
+
+.si-report-id {
+    font-family: monospace;
+    color: var(--cr-slate);
+    font-size: 13px;
+    margin-bottom: 15px;
+    opacity: 0.7;
+}
+
+.si-report-title {
+    font-family: var(--font-heading);
+    font-size: 52px;
+    line-height: 1.05;
+    color: var(--cr-navy);
+    font-weight: 900;
+    margin-bottom: 25px;
+}
+
+.si-report-meta {
+    font-size: 14px;
+    color: var(--cr-slate);
+    padding: 15px 0;
+    border-top: 2px solid var(--cr-gold);
+    border-bottom: 1px solid var(--cr-border);
+}
+
+.si-author {
+    font-weight: 700;
+    color: var(--cr-navy);
+}
+
+.si-narrative {
+    font-size: 19px;
+    line-height: 1.9;
+    color: #2d3748;
+}
+
+.si-lead {
+    font-size: 24px;
+    line-height: 1.6;
+    color: var(--cr-navy);
+    margin-bottom: 40px;
+    font-weight: 300;
+}
+
+.si-narrative h2 {
+    font-family: var(--font-heading);
+    font-size: 34px;
+    margin: 50px 0 25px;
+    color: var(--cr-navy);
+}
+
+.si-callout-box {
+    margin: 60px 0;
+    padding: 40px;
+    background-color: #fcfaf7; /* Ivory background for deep reading */
+    border-top: 1px solid var(--cr-gold);
+    border-bottom: 1px solid var(--cr-gold);
+    position: relative;
+}
+
+.si-callout-box p {
+    font-family: var(--font-heading);
+    font-size: 26px;
+    font-style: italic;
+    color: var(--cr-navy);
+    line-height: 1.4;
+    text-align: center;
+}
+
+.si-knowledge-base {
+    margin-top: 80px;
+    padding: 50px;
+    border: 1px solid var(--cr-navy);
+    background-color: #fff;
+}
+
+.si-kb-title {
+    font-family: var(--font-heading);
+    font-size: 28px;
+    margin-bottom: 40px;
+    color: var(--cr-navy);
+    text-transform: uppercase;
+}
+
+.si-faq-item {
+    margin-bottom: 35px;
+}
+
+.si-q {
+    font-weight: 700;
+    font-size: 18px;
+    color: var(--cr-navy);
+    margin-bottom: 12px;
+}
+
+.si-a {
+    font-size: 16px;
+    color: var(--cr-slate);
+}
+
+.si-bio-section {
+    margin-top: 100px;
+    display: flex;
+    gap: 40px;
+    padding: 40px;
+    background-color: #f8fafc;
+    align-items: center;
+}
+
+.si-avatar-sq {
+    width: 80px;
+    height: 80px;
+    background-color: var(--cr-navy);
+    color: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: 700;
+    font-size: 24px;
+    flex-shrink: 0;
+}
+
+.si-bio-content h5 {
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+.si-widget-h {
+    font-family: var(--font-heading);
+    font-size: 20px;
+    margin-bottom: 25px;
+    border-bottom: 2px solid var(--cr-navy);
+    padding-bottom: 10px;
+}
+
+.si-report-list {
+    list-style: none;
+}
+
+.si-report-list li {
+    margin-bottom: 20px;
+    font-weight: 600;
+}
+
+.advisory-box {
+    padding: 30px;
+    background-color: var(--cr-navy);
+    color: #fff;
+}
+
+.advisory-box h5 {
+    color: var(--cr-gold);
+    font-size: 20px;
+    margin-bottom: 15px;
+}
+
+.si-cta {
+    display: inline-block;
+    margin-top: 15px;
+    font-weight: 700;
+    text-transform: uppercase;
+    color: var(--cr-gold);
+}
+
+.si-download-widget {
+    margin-top: 50px;
+    padding: 30px;
+    border: 1px dashed var(--cr-navy);
+}
+
+.si-btn-download {
+    width: 100%;
+    margin-top: 20px;
+    padding: 15px;
+    background-color: var(--cr-navy);
+    color: #fff;
+    border: none;
+    font-weight: 700;
+    text-transform: uppercase;
+    cursor: pointer;
+}
+
+@media (max-width: 768px) {
+    .si-premium-layout { grid-template-columns: 1fr; }
+    .si-report-title { font-size: 34px; }
+    .si-callout-box p { font-size: 20px; }
+    .si-bio-section { flex-direction: column; text-align: center; }
+}

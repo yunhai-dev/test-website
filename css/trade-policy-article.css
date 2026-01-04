@@ -1,0 +1,192 @@
+/* Policy Gazette Article Styles */
+.dispatch-container {
+    display: grid;
+    grid-template-columns: 2.6fr 1fr;
+    gap: 65px;
+    padding: 50px 0 100px;
+}
+
+.policy-breadcrumb {
+    font-size: 11px;
+    text-transform: uppercase;
+    font-weight: 600;
+    color: var(--cr-slate);
+    margin-bottom: 35px;
+    letter-spacing: 1px;
+}
+
+.dispatch-header {
+    border-bottom: 4px solid var(--cr-text);
+    padding-bottom: 25px;
+    margin-bottom: 45px;
+}
+
+.dispatch-tag {
+    color: #7f1d1d; /* Deep Burgundy for Policy */
+    font-weight: 700;
+    text-transform: uppercase;
+    font-size: 11px;
+    letter-spacing: 2px;
+    margin-bottom: 12px;
+}
+
+.dispatch-title {
+    font-family: var(--font-heading);
+    font-size: 46px;
+    line-height: 1.1;
+    color: var(--cr-navy);
+    margin-bottom: 20px;
+}
+
+.dispatch-info {
+    font-size: 14px;
+    color: var(--cr-slate);
+    font-style: italic;
+}
+
+.author-expert {
+    font-weight: 700;
+    color: var(--cr-text);
+    font-style: normal;
+}
+
+.policy-drop-cap::first-letter {
+    font-family: var(--font-heading);
+    float: left;
+    font-size: 82px;
+    line-height: 64px;
+    padding-right: 15px;
+    color: #7f1d1d;
+}
+
+.dispatch-editorial {
+    font-size: 18px;
+    line-height: 1.8;
+    color: var(--cr-text);
+}
+
+.dispatch-editorial h2 {
+    font-family: var(--font-heading);
+    font-size: 32px;
+    margin: 50px 0 20px;
+    color: var(--cr-navy);
+    border-bottom: 1px solid var(--cr-border);
+    padding-bottom: 10px;
+}
+
+.policy-insight-box {
+    margin: 50px 0;
+    padding: 40px;
+    background-color: #f8fafc;
+    border-top: 5px solid #7f1d1d;
+    font-family: var(--font-heading);
+    font-size: 24px;
+    color: var(--cr-navy);
+    line-height: 1.4;
+}
+
+.policy-qa-hub {
+    margin-top: 80px;
+    padding: 45px;
+    background-color: #f1f5f9;
+}
+
+.qa-heading {
+    font-family: var(--font-heading);
+    font-size: 26px;
+    margin-bottom: 35px;
+    text-transform: uppercase;
+    color: var(--cr-navy);
+}
+
+.qa-block {
+    margin-bottom: 35px;
+}
+
+.qa-question {
+    font-weight: 700;
+    font-size: 18px;
+    color: #7f1d1d;
+    margin-bottom: 10px;
+}
+
+.qa-answer {
+    font-size: 16px;
+    color: var(--cr-slate);
+}
+
+.expert-card {
+    margin-top: 80px;
+    padding: 40px;
+    background-color: #fff;
+    border: 1px solid var(--cr-border);
+    display: flex;
+    gap: 30px;
+    align-items: center;
+}
+
+.expert-avatar {
+    width: 75px;
+    height: 75px;
+    background-color: #7f1d1d;
+    color: white;
+    border-radius: 2px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: 700;
+    font-size: 22px;
+    flex-shrink: 0;
+}
+
+.policy-intelligence-sidebar .policy-widget {
+    margin-bottom: 60px;
+}
+
+.widget-label {
+    font-family: var(--font-heading);
+    font-size: 22px;
+    margin-bottom: 25px;
+    border-left: 5px solid #7f1d1d;
+    padding-left: 15px;
+}
+
+.alert-feed {
+    list-style: none;
+}
+
+.alert-feed li {
+    margin-bottom: 20px;
+    font-size: 15px;
+    font-weight: 600;
+    border-bottom: 1px solid var(--cr-border);
+    padding-bottom: 10px;
+}
+
+.compliance {
+    padding: 30px;
+    background-color: var(--cr-navy);
+    color: white;
+}
+
+.compliance h5 {
+    color: var(--cr-gold);
+    font-size: 19px;
+    margin-bottom: 15px;
+}
+
+.policy-link {
+    display: inline-block;
+    margin-top: 15px;
+    color: var(--cr-gold);
+    font-weight: 700;
+    text-transform: uppercase;
+    font-size: 12px;
+}
+
+@media (max-width: 768px) {
+    .dispatch-container { grid-template-columns: 1fr; }
+    .dispatch-title { font-size: 34px; }
+    .policy-insight-box { padding: 30px; font-size: 20px; }
+    .expert-card { flex-direction: column; text-align: center; }
+}
